@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\function_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\function_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\simple_cling.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\simple_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\simple_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\simple_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\matrix_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\matrix_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\graph_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\graph_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\hex_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\hex_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\main.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\hex_cling.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\hex_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\matrix_cling.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\matrix_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\advanced_pad.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\advanced_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\build\\intermediates\\res\\merged\\release\\layout-land\\graph_cling.xml",
+        "source": "C:\\Users\\SHOLA\\AndroidStudioProjects\\Calculator\\Calculator\\src\\main\\res\\layout-land\\graph_cling.xml"
+    }
+]

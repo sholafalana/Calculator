@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8790fea7a0bc1d42c69c648571e2c7a02c92cf4c">
+        <dex dex="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\build\intermediates\pre-dexed\debug\android-support-v4_9011d19dd0444401cb909c569136072e7bfd16eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\libs\slider.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08c240a89e4ad2d960431b0d5ad25b2924627fa6">
+        <dex dex="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\build\intermediates\pre-dexed\debug\slider_7207afb0191509ed7717c7efb9baf2b811f9d6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\libs\ejml-0.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b0ea552892ad6e68c1c7df5b8222661db8467ba">
+        <dex dex="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\build\intermediates\pre-dexed\debug\ejml-0.21_0e116b683314974a53100bb45867b1639700da5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\libs\arity-2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5fcb42171ddf897aa295ee5f50356abc2a688c8">
+        <dex dex="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\build\intermediates\pre-dexed\debug\arity-2.1.6_30b16f4f879dc49e90ab120ee5fa780f83c4b9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\libs\achartengine.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ca77b77fdd7e37c9f30cf71b6149eda409779bb">
+        <dex dex="C:\Users\SHOLA\AndroidStudioProjects\Calculator\Calculator\build\intermediates\pre-dexed\debug\achartengine_4c37dcf99bf80fdf445ff2f9720fe1b60ca2c702.jar" />
+    </item>
+
+</items>
